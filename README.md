@@ -29,17 +29,30 @@ The project follows a Layered Architecture:
 
 src/main/java/
 │
+<br>
 ├── entity
+<br>
 │   └── BatchEntry.java
+<br>
 │
+<br>
 ├── repository
+<br>
 │   └── BatchEntryRepository.java
+<br>
 │
+<br>
 ├── service
+<br>
 │   └── BatchEntryService.java
+<br>
 │
+<br>
 └── controller
+<br>
     └── BatchEntryController.java
+
+    
 ---
 
 ## ⚙️ Technologies Used
