@@ -28,6 +28,7 @@ All data is stored in MongoDB and accessed using REST APIs.
 The project follows a Layered Architecture:
 
 src/main/java/
+<br>
 │
 <br>
 ├── entity
