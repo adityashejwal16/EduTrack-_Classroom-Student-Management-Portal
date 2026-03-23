@@ -66,8 +66,11 @@ Represents MongoDB collection.
 ## BatchEntry.java
 
 • id
+<br>
 • batchName
+<br>
 • duration
+<br>
 • fees
 
 
@@ -75,16 +78,23 @@ Represents MongoDB collection.
 
 Handles database operations using:
 
+<br>
+
 MongoRepository<BatchEntry, String>
+
 
 ## 🔹 Service Layer
 
 Contains business logic:
-
+<br>
 • Add Batch
+<br>
 • View All Batches
+<br>
 • Get Batch by ID
+<br>
 • Update Batch
+<br>
 • Delete Batch
 
 ---
@@ -113,7 +123,6 @@ spring.data.mongodb.host=localhost
 spring.data.mongodb.port=27017
 spring.data.mongodb.database=EduTrackDB
 
-１１２３４５
 
 ## ▶️ How to Run
 １. Install & Start MongoDB
