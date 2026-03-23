@@ -10,6 +10,7 @@ The system allows users to perform CRUD operations on student batches, making it
 ## 🧠 Project Overview
 <br>
 EduTrack helps in managing:
+
 <br>
 📚 Classroom / Batch Details
 <br>
@@ -19,6 +20,7 @@ EduTrack helps in managing:
 <br>
 ⏳ Course Duration
 <br>
+
 All data is stored in MongoDB and accessed using REST APIs.
 
 ---
