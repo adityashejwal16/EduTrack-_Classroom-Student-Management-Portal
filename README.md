@@ -27,31 +27,24 @@ All data is stored in MongoDB and accessed using REST APIs.
 <br>
 The project follows a Layered Architecture:
 
+
 src/main/java/
 <br>
-│
+entity/
 <br>
-├── entity
+  BatchEntry.java
 <br>
-│      └── BatchEntry.java
+repository/
 <br>
-│
+  BatchEntryRepository.java
 <br>
-├── repository
+service/
 <br>
-│      └── BatchEntryRepository.java
+  BatchEntryService.java
 <br>
-│
+controller/
 <br>
-├── service
-<br>
-│      └── BatchEntryService.java
-<br>
-│
-<br>
-└── controller
-<br>
-        └── BatchEntryController.java
+  BatchEntryController.java
 
     
 ---
