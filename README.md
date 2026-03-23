@@ -8,33 +8,45 @@ The system allows users to perform CRUD operations on student batches, making it
 ---
 
 ## 🧠 Project Overview
-
+<br>
 EduTrack helps in managing:
-
+<br>
 📚 Classroom / Batch Details
+<br>
 👨‍🎓 Student Information (extendable)
+<br>
 💰 Course Fees
+<br>
 ⏳ Course Duration
-
+<br>
 All data is stored in MongoDB and accessed using REST APIs.
 
 ---
 
 ## 🏗️ Project Architecture
-
+<br>
 The project follows a Layered Architecture:
-
+<br>
 src/main/java/
+<br>
 │
+<br>
 ├── entity
+<br>
 │   └── BatchEntry.java
+<br>
 │
 ├── repository
 │   └── BatchEntryRepository.java
+<br>
 │
+<br>
 ├── service
+<br>
 │   └── BatchEntryService.java
+<br>
 │
+<br>
 └── controller
     └── BatchEntryController.java
 
@@ -42,10 +54,15 @@ src/main/java/
 
 ## ⚙️ Technologies Used
 ☕ Java
+<br>
 🚀 Spring Boot
+<br>
 🍃 Spring Data MongoDB
+<br>
 🗄️ MongoDB
+<br>
 🌐 REST API
+<br>
 📦 Maven
 
 ---
