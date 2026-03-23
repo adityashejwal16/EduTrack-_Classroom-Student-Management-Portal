@@ -61,7 +61,7 @@ The project follows a Layered Architecture:
 
 
 ## 📂 Module Details
-🔹 Entity Layer
+## 🔹 Entity Layer
 
 Represents MongoDB collection.
 
