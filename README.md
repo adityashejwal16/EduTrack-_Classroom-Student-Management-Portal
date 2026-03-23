@@ -120,27 +120,37 @@ Base URL:
 Add in application.properties:
 
 spring.data.mongodb.host=localhost
+<br>
 spring.data.mongodb.port=27017
+<br>
 spring.data.mongodb.database=EduTrackDB
 
 
 ## ▶️ How to Run
 １. Install & Start MongoDB
+<br>
 ２. Clone the repository
+<br>
 
 git clone https://github.com/your-username/edutrack.git
 
 ３. Open in IDE (IntelliJ / Eclipse)
+<br>
 ４. Run Spring Boot Application
+<br>
 ５. Test APIs using Postman
 
 ---
 
 ## 🧪 Sample Request
 {
+<br>
   "batchName": "Java Full Stack",
+  <br>
   "duration": "6 Months",
+  <br>
   "fees": 50000
+  <br>
 }
 
 ---
@@ -148,24 +158,34 @@ git clone https://github.com/your-username/edutrack.git
 ## 🎯 Features
 
 ✔ Manage classroom batches
+<br>
 ✔ REST API support
+<br>
 ✔ MongoDB integration
+<br>
 ✔ Clean architecture
+<br>
 ✔ Easy to extend (students, teachers, etc.)
 
 
 ## 🚀 Future Enhancements
 
 👨‍🎓 Student Management Module
+<br>
 👩‍🏫 Teacher Management
+<br>
 🔐 Authentication (Login/Register)
+<br>
 📊 Dashboard UI (React/Angular)
 
 
 ## 📚 Learning Outcomes
 Spring Boot REST APIs
+<br>
 MongoDB Integration
+<br>
 Backend Architecture Design
+<br>
 CRUD Operations
 
 ---
