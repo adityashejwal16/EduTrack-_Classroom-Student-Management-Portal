@@ -32,25 +32,25 @@ src/main/java/
 <br>
 ├── entity
 <br>
-│    └── BatchEntry.java
+│      └── BatchEntry.java
 <br>
 │
 <br>
 ├── repository
 <br>
-│    └── BatchEntryRepository.java
+│      └── BatchEntryRepository.java
 <br>
 │
 <br>
 ├── service
 <br>
-│    └── BatchEntryService.java
+│      └── BatchEntryService.java
 <br>
 │
 <br>
 └── controller
 <br>
-      └── BatchEntryController.java
+        └── BatchEntryController.java
 
     
 ---
